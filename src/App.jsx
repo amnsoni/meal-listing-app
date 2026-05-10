@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-// import './App.css'
+import './App.css'
 import fetchMeals from './fetchMeals'
 import MealCard from './components/MealCard'
 import './components/MealCard.css'
